@@ -1,1 +1,1 @@
-# jogo.memória
+# Joguinho da memória do Bob Esponja
