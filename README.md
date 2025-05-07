@@ -1,1 +1,1 @@
-# jogo.mem-ria
+# jogo.memória
