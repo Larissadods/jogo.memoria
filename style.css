@@ -3,12 +3,19 @@ body {
 }
 
 .titulo {
-    margin-top: 15%;
+    
+    margin-top: 17%;
     text-align: center;
     color: white;
     font-weight: bold;
     
 }
 
-
+.botao {
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 35px;
+}
 
