@@ -1,15 +1,22 @@
 body {
-    background: url(vila.biquini.jpg);
+    background: url(vila.biquini.jpg) no-repeat;
+    background-size: 100%;
 }
 
 #tabuleiro {
     border-collapse: collapse;
+    border-radius: 10px;
     background-color: white;
+    margin-top: 150px;
+    margin-left: 618px;
+    
 }
 
-table, tr, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-
+#tabuleiro td {
+    width: 120px;
+    height: 150px;
+    border: 5px solid rgb(184, 177, 177);
+    background-color: white;
+    cursor: pointer;
 }
 

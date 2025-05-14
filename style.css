@@ -1,5 +1,6 @@
 body {
-    background: url(vila.biquini.jpg);
+    background: url(vila.biquini.jpg) no-repeat;
+    background-size: 100%;
 }
 
 .titulo {
