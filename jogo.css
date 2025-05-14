@@ -6,14 +6,13 @@ body {
 #tabuleiro {
     border-collapse: collapse;
     background-color: white;
-    margin-top: 150px;
-    margin-left: 618px;
+    margin:  50px auto;
     
 }
 
 #tabuleiro td {
-    width: 120px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     border: 5px solid rgb(184, 177, 177);
     background-color: white;
     cursor: pointer;
