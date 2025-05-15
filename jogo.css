@@ -7,7 +7,6 @@ body {
     border-collapse: collapse;
     background-color: white;
     margin:  50px auto;
-    
 }
 
 #tabuleiro td {
@@ -18,7 +17,55 @@ body {
     cursor: pointer;
 }
 
-#tabuleiro img {
+.karen {
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.perola {
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.sra {
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.siri {
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.lula {
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.gary {
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.bob {
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.patrick {
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.plankton {
     width: 100px;
     margin-top: 10px;
     margin-left: 10px;
